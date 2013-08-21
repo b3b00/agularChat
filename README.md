@@ -1,2 +1,2 @@
 # angularChat
-### a Sails application
+### a Angular.js + Sails.js chat application
