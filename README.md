@@ -1,0 +1,2 @@
+# angularChat
+### a Sails application
